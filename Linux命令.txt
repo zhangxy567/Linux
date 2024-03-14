@@ -8,17 +8,17 @@
 
 4.open in terminal  打开终端/命令行
 
-5.  keep aligned   保持对齐
+5.keep aligned   保持对齐
 
-6. organize desktop by name按名称组织桌面
+6.organize desktop by name按名称组织桌面
 
-7. change background更改背景
+7.change background更改背景
 
 8.cancel 取消
 
 9.create创造 创建
 
-10.   wallpapers 壁纸 
+10.wallpapers 壁纸 
 
 11.notificcations通知
 
@@ -65,8 +65,7 @@
 32.properties 属性
 
 
-
-                          二.学习笔记
+ 二.学习笔记
 
 命令：命令本体command+选项，控制命令的行为细节［-options］+参数，控制命令的指向目标［parameter)］
 
